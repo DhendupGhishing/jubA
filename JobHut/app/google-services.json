@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "574118174972",
+    "project_id": "jobhut-c0e81",
+    "storage_bucket": "jobhut-c0e81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574118174972:android:7179706d65703e42af3779",
+        "android_client_info": {
+          "package_name": "gcit.edu.jobhut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574118174972-e0a1st8hnhpgcu65ji7on4sjkb8dhvcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhXVn_Kxv7ikNLqH2aavjovePSgIgw-as"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574118174972-e0a1st8hnhpgcu65ji7on4sjkb8dhvcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
